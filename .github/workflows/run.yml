@@ -17,6 +17,6 @@ jobs:
                   GH_TOKEN: ${{ secrets.GH_TOKEN }} # Do not edit, defined in secrets
 
                   # Edit the following environment variables
-                  GIST_ID: fd8b5a1de451f2e92316f51e6a228777 # The ID portion from your gist url
+                  GIST_ID: 4ac9000e3091864809c9a8e106fdfe50 # The ID portion from your gist url
                   ALL_COMMITS: true # If `true` it will count all commits, if `false` it will count your last year commits
                   K_FORMAT: true  # If `true`, large numbers will be formatted with a "k", for example "1.5k"
